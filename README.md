@@ -1,3 +1,3 @@
 # machine-learning-notes
 
-![Machine Learning](./image/Machine Learning.png)
+![Machine Learning](https://raw.githubusercontent.com/cnethanchang/machine-learning-notes/master/image/Machine%20Learning.png)
